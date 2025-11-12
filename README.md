@@ -60,6 +60,16 @@ maintained in the boiler are 495°C and 66 kg/cm2
 Plant will operate in synchronous mode with 132 kV grid of Chhattisgarh State Electricity Board.
 
 The plant was commissioned 27/02/2006
+
+“The project activity was previously registered as a UNFCCC CDM Project activity ID 06741
+ until
+2016. Under the UCR program, the project is now being considered for the crediting period from
+01/01/2017.
+
+There is no change in the start date of crediting period. The start date of crediting under UCR is
+considered as 01/01/2017
+
+1st monitoring period: 01/01/2017 to 31/12/2023 (07 Years) 
 __________________
 PRIOR HISTORY
 
