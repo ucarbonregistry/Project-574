@@ -18,6 +18,14 @@ Host Party India
 Applied methodologies and standardized baselines Methodology Applied follows UNFCCC CDM
 Methodologies:
 ACM0012 Waste Energy Recovery Version 6.0
+CATEGORY- ACM0012 Large-scale Consolidated Methodology Waste energy recovery Version
+06.0
+
+The consolidated methodology is applicable to project activities implemented in an existing or
+Greenfield waste energy generation (WEG) facility converting waste energy carried in identified
+waste energy carrying medium (WECM) stream(s) into useful energy (i.e. power, mechanical or
+thermal) consumed in an existing or Greenfield recipient facility(ies) and/or supplied to the grid in
+the case of electricity generation. The WEG facility may be one of the recipient facilities. 
 UCR Protocol Standard Baseline
 
 Sectoral scopes
