@@ -1,6 +1,14 @@
 # Project-574
 Waste Heat Recovery based captive power generation by SKS Ispat Ltd
 
+Region: Raipur
+
+Village: Siltara
+
+District: Raipur
+
+State: Chhattisgarh
+
 Scale of the project activity Large Scale
 
 Project participants Project Proponent: Sks Ispat & Power Ltd
