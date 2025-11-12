@@ -45,3 +45,68 @@ Plant will operate in synchronous mode with 132 kV grid of Chhattisgarh State El
 
 The plant was commissioned 27/02/2006
 __________________
+PRIOR HISTORY
+
+CDM: Project 0674 : “Waste Heat Recovery based captive power generation by SKS Ispat Ltd”
+
+Host Parties	India 
+
+Authorized Participants: M/s SKS Ispat & Power Limited
+
+Sectoral scopes	1 : Energy industries (renewable - / non-renewable sources)
+
+Activity Scale	LARGE
+
+Methodologies Used	ACM0004 ver. 2 - Consolidated methodology for waste gas and/or heat for power generation
+
+Standardized baselines used	N/A
+Registration Date	17 Dec 06   (view history)  
+
+Crediting Period	01 Jan 07 - 31 Dec 16 (Fixed)
+
+____________
+Requests for Issuance and related documentation	
+______
+Monitoring report: 01 Jan 2007 - 30 Jun 2007 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 27120
+
+Serial Range: Block start: IN-5-53984429-1-1-0-674      Block end: IN-5-54011548-1-1-0-674
+_________________
+
+Monitoring report: 01 Jul 2007 - 31 Dec 2009 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 127638
+
+Serial Range: Block start: IN-5-116170264-1-1-0-674      Block end: IN-5-116297901-1-1-0-674
+______________
+
+Monitoring report: 01 Jan 2010 - 30 Jun 2012 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 91240
+
+Serial Range: Block start: IN-5-170334198-1-1-0-674      Block end: IN-5-170425437-1-1-0-674
+________
+
+Monitoring report: 01 Jul 2012 - 31 Dec 2012 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 12269
+
+Serial Range: Block start: IN-5-177424504-1-1-0-674      Block end: IN-5-177436772-1-1-0-674
+
+_________
+Monitoring report: 01 Jan 2013 - 31 Dec 2013 ( (withdrawn)
+___________
+
+Monitoring report: 01 Jan 2013 - 31 Dec 2016 
+
+Issuance request state: Awaiting issuance request
+____________
